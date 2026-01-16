@@ -20,3 +20,5 @@ return false
 
 console.log(returnNumBiggerThanTwo([1, 2, 5, 7]) )// 5
 console.log(returnNumBiggerThanTwo([0, 1, 2]) )   // false
+
+console.log("nesto");
